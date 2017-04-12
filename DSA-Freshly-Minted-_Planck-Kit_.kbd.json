@@ -1,0 +1,89 @@
+[
+  {
+    "name": "DSA Freshly Minted (Planck Kit)",
+    "author": "Nick Schneider"
+  },
+  [
+    {
+      "c": "#293649",
+      "t": "#5dceba",
+      "p": "DSA",
+      "a": 7
+    },
+    "FN",
+    "TAB",
+    "ENTER",
+    "BACK SPACE",
+    {
+      "x": 0.25,
+      "c": "#5dceba",
+      "t": "#293649"
+    },
+    "RAISE",
+    "LOWER"
+  ],
+  [
+    {
+      "c": "#293649",
+      "t": "#5dceba"
+    },
+    "UP",
+    "LEFT",
+    "RIGHT",
+    "DOWN",
+    {
+      "x": 0.25,
+      "c": "#e5e4df",
+      "t": "#293649",
+      "w": 2
+    },
+    "2u"
+  ],
+  [
+    {
+      "c": "#293649",
+      "t": "#5dceba"
+    },
+    "ALT",
+    "RAISE",
+    "LOWER",
+    "SUPER",
+    {
+      "x": 0.25,
+      "w": 2
+    },
+    "2u"
+  ],
+  [
+    "CTRL",
+    "CTRL",
+    "META",
+    "CAPS LOCK",
+    {
+      "x": 0.25,
+      "c": "#5dceba",
+      "t": "#293649"
+    },
+    "",
+    "ENTER"
+  ],
+  [
+    {
+      "c": "#293649",
+      "t": "#5dceba"
+    },
+    "SHIFT",
+    "SHIFT",
+    {
+      "t": "#293649"
+    },
+    "",
+    "",
+    {
+      "x": 0.25,
+      "c": "#e5e4df"
+    },
+    "",
+    ""
+  ]
+]
